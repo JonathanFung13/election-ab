@@ -1,3 +1,5 @@
+# Alberta's Election History
+## 1905 - 2015
 The province of Alberta entered Confederation in 1905 and has held provincial elections every 4 years since.  To mark 
 the 30th election on April 16, 2019, I set out to visualize this history, and see how each district has voted over time.
 
