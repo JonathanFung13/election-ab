@@ -31,7 +31,7 @@ the shape of that district in that year was likely to be much different from wha
 In short, you can trust the colors of a location in the map, however do not trust the white lines that mark the district 
 boundaries.
 
-![mapping](/output/electoral_map_ab.gif)
+![mapping](/images/electoral_map_ab.gif)
 
 ## Personal reflection on this project
 When I started on this project, I thought it would be enough to simply draw the map, color the boundaries, and leave it 
