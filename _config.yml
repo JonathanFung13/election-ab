@@ -1,1 +1,5 @@
 theme: jekyll-theme-tactile
+
+locale: en-CA
+title:  Alberta's Election History
+description: 1905 - 2015
